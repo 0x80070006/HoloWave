@@ -3,7 +3,7 @@
 > **A cyberpunk terminal-style music player for Android**
 
 <p align="center">
-  <img src="assets/logo.png" width="200" alt="CyberPlayer Logo"/>
+  <img src="logo.png" width="200" alt="CyberPlayer Logo"/>
 </p>
 
 <p align="center">
