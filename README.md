@@ -122,7 +122,7 @@ lib/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/holowave.git
+git clone https://github.com/0x80070006/holowave.git
 cd holowave
 flutter pub get
 flutter run
