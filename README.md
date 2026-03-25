@@ -3,7 +3,7 @@
 > **A holographic cyberpunk music player for Android — inspired by Cyberpunk 2077**
 
 <p align="center">
-  <img src="logo.png" width="200" alt="HoloWave Logo"/>
+  <img src="assets/logo.png" width="200" alt="HoloWave Logo"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ lib/
 ### Installation
 
 ```bash
-git clone https://github.com/0x80070006/holowave.git
+git clone https://github.com/yourusername/holowave.git
 cd holowave
 flutter pub get
 flutter run
