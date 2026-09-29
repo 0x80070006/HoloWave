@@ -6,9 +6,9 @@ Lecteur de musique locale pour Android, écrit en Flutter. Il parcourt la biblio
 
 ## Télécharger
 
-[Télécharger HoloWave v5.0.8](https://github.com/0x80070006/HoloWave/releases/download/ver.5.0.8/HoloWave-ver.5.0.8.apk) · [Historique des versions](https://github.com/0x80070006/HoloWave/releases)
+[Télécharger HoloWave v5.0.8](https://github.com/0x80070006/HoloWave/releases/download/v5.0.8/HoloWave-v5.0.8.apk) · [Historique des versions](https://github.com/0x80070006/HoloWave/releases)
 
-La version 5.0.5 est explicitement une démonstration. Les anciens tags conservent leur nom d'origine pour que leurs liens et APK restent accessibles.
+La version 5.0.5 est explicitement une démonstration. Les tags et les fichiers APK publiés utilisent désormais le format de version `vMAJEUR.MINEUR.CORRECTIF`. Les anciennes URL de téléchargement ne sont plus utilisées.
 
 ![Logo HoloWave](assets/logo.png)
 
