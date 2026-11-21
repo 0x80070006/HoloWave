@@ -29,7 +29,7 @@
 
 HOLOWAVE lit la musique **stockée sur votre téléphone** : pas de compte, pas de streaming, pas de pub. L'interface emprunte aux bars à cocktails des années 1930 : laiton, velours, sarcelle profonde, motifs en soleil et coins à redans. La pochette de l'album glisse hors de son étui et le vinyle se met à tourner quand la musique démarre.
 
-La version 2 est une refonte complète de l'[ancienne HoloWave](https://github.com/0x80070006/HoloWave) (Flutter, thème cyberpunk), réécrite en natif Kotlin.
+La version 2 est une refonte complète de l'ancienne HoloWave (Flutter, thème cyberpunk), réécrite en natif Kotlin.
 
 ## Fonctionnalités
 
